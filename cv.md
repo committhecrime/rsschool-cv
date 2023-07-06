@@ -19,7 +19,7 @@
 
 ### Skills:
  Languages: JavaScript, HTML, CSS ;
- IDE: Webstorm, Visual Studio, VS Code ;
+ IDE: Webstorm, VS Code ;
  Source Control: Git ;
  OS: MacOS ;
  English level: Intermediate;
